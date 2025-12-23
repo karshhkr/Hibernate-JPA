@@ -2,7 +2,7 @@
 A beginner-friendly Java project demonstrating how to integrate Hibernate ORM with a MySQL database using Maven. This crash course covers entity mapping, configuration, and session management — perfect for interview prep or GitHub portfolio.
 🚀 How to Run
 1- Clone the repo
-git clone https://github.com/your-username/hibernate-crash-course.git
+git clone https://github.com/karshhkr/hibernate-crash-course.git
 cd hibernate-crash-course
 
 2- Configure MySQL
